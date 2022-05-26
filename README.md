@@ -3,6 +3,10 @@
 ### Building Web Applications with Django
 
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/naveensanjula975/Vidly-WebApplication-Django)
+
+
+
 <li>1- Introduction
 <li>2- Your First Django Project
 <li>3- Your First App
@@ -28,4 +32,3 @@
 
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/naveensanjula975/Vidly-WebApplication-Django)
