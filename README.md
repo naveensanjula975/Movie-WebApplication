@@ -25,3 +25,7 @@
 <li>20- Adding the Homepage
 <li>21- Getting Ready to Deploy
 <li>22- Deployment
+
+  
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/naveensanjula975/Vidly-WebApplication-Django)
